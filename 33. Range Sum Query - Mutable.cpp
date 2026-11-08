@@ -38,9 +38,3 @@ public:
         return prefix(right + 1) - prefix(left);
     }
 };
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray* obj = new NumArray(nums);
- * obj->update(index,val);
- * int param_2 = obj->sumRange(left,right);
- */
